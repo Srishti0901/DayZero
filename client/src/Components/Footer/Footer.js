@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <>
       <section className="footer-section">
-        <div className="card card-2">
+        <div className="footer-card footer-card-2">
           <div class="logo">
             <svg
               width="46"
@@ -55,7 +55,7 @@ const Footer = () => {
             Turning Your Vision into an Actionable Blueprint to Brilliance.
           </p>
         </div>
-        <div className="card">
+        <div className="footer-card">
           <h3>Platform</h3>
           <ul>
             <li>
@@ -84,7 +84,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="card">
+        <div className="footer-card">
           <h3>Company</h3>
           <ul>
             <li>
@@ -113,7 +113,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="card">
+        <div className="footer-card">
           <h3>Legal</h3>
           <ul>
             <li>
@@ -142,7 +142,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="card">
+        <div className="footer-card">
           <h3>Follow us</h3>
           <div class="follow_links">
             <img
